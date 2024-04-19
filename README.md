@@ -6,11 +6,11 @@ This project aims to implement and manage an Ethernet network using the Packet T
 
 **Documentation:**
 
-- [Download the project PDF](link to PDF)
+- [Download the project PDF](https://github.com/cornelber/sys-management-security-project/blob/main/Computing%20Systems%20Management%20and%20Security.pdf)
 
 **Source Files:**
 
-- [View the source files in the src directory](link to src directory)
+- [View the source files in the src directory]()
 
 **Conclusion:**
 
