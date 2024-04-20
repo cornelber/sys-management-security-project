@@ -2,7 +2,7 @@
 
 **Introduction:**
 
-This project aims to implement and manage an Ethernet network using the Packet Tracer platform. The main objective is to explore aspects related to configuring, managing, and securing a network infrastructure, providing an opportunity to gain practical knowledge in the field of computing systems management and security.
+This project aims to implement and manage an Ethernet network using the Packet Tracer platform. The main objective is to explore aspects related to configuring, managing, and securing a network infrastructure,providing an opportunity to gain practical knowledge in the field of computing systems management and security.
 
 **Documentation:**
 
